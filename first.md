@@ -6,7 +6,7 @@
 
 ## **Команды**
 
-[посказка по командам Git](https://github.com/cyberspacedk/Git-commands)
+[посказка по командам Git](https://github.com/cyberspacedk/Git-commands "внимательно изучить")
 
 * *git init* - добавление репозитория
 * *git add ИМЯ_ФАЙЛА* - добавление файла в commit (Tab)
