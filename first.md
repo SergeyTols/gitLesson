@@ -1,4 +1,4 @@
-# Begin
+# This is my GIT tutorial
 
 * *git init* - добавление репозитория
 
