@@ -27,6 +27,7 @@
 * fast-forward
 * fast fast fast
 * test test test
+somesing
 * Auto-merge ORT
 * Бывают безконфликтные слияния и бывают конфликтные, которые требуют ручного решения
 
