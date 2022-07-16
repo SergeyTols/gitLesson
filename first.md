@@ -25,7 +25,6 @@
 
 3. ### Конфликты
 * fast-forward
-* fast fast 
 * test test 
 * somesing
 * Auto-merge ORT
