@@ -25,8 +25,8 @@
 
 3. ### Конфликты
 * fast-forward
-* fast fast fast
-* test test test
+* fast fast 
+* test test 
 somesing
 * Auto-merge ORT
 * Бывают безконфликтные слияния и бывают конфликтные, которые требуют ручного решения
